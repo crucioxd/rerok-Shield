@@ -1,0 +1,8 @@
+{
+  "name": "Remix REROK Shield - Mobile Protection E-Commerce",
+  "description": "Find model-specific tempered glass and screen protectors for Apple, Samsung, OnePlus, Xiaomi, and more. Features AI compatibility finder, shopping cart, order tracking, and admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
